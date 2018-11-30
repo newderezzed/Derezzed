@@ -19,7 +19,7 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 version: v1.2.0
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: http://pic.xiami.net/images/album/img26/31226/4052581515031226.jpg
 google_analytics:
 exclude:
 - Gemfile
